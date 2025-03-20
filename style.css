@@ -1,28 +1,28 @@
-body{
-    margin-left: 30%; margin-right: 30%;
+body {
+  margin-left: 30%;
+  margin-right: 30%;
 }
-.poza{
-    width: 100px;
-    height: 40px;
+.poza {
+  width: 100px;
+  height: 40px;
 }
-.h11{
-    text-align: center;
+.h11 {
+  text-align: center;
 }
-p{
-    font-family: 'Montserrat', sans-serif;
-    
+p {
+  font-family: "Montserrat", sans-serif;
 }
-button{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 title {
-    text-align: center;
+  text-align: center;
 }
